@@ -2,9 +2,7 @@
 
 To download latest build of KMSPico, please use following links.
 
-* [Download Server 01](https://github.com/KMSGNU/Download/blob/master/KMSPico%2010.2.zip?raw=true)
-
-* [Download Server 02](https://mega.nz/#!cYhBXKzI!tOQ1st5--qAN7AXAhsGHblzULc1sbnBAZbOG9AqeoR0)
+* [Download Server 01](https://mega.nz/#!cYhBXKzI!tOQ1st5--qAN7AXAhsGHblzULc1sbnBAZbOG9AqeoR0)
 
 
 ## License Information
