@@ -7,7 +7,7 @@ To download latest build of KMSPico, please use following links.
 [Download Server 02](https://github.com/KMSGNU/KMSGNU/edit/master/index.md)
 
 
-## KMSPICO - Terms and conditions
+## License Information
 
 1. Preamble: This Agreement, signed on Mar 15, 2014 (hereinafter: Effective Date) governs the
 relationship between KMSPICO, a Business Entity, (hereinafter: Licensee) and KMSPICO, a
