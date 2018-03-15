@@ -1,5 +1,6 @@
 ## Download KMSPico 10.2.1
 
-You can use the [editor on GitHub](https://github.com/KMSGNU/KMSGNU/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+To download latest build of KMSPico, please use following links.
 
-
+[Download Link 01](https://github.com/KMSGNU/KMSGNU/edit/master/index.md)
+[Mirror Download Link](https://github.com/KMSGNU/KMSGNU/edit/master/index.md)
